@@ -10,12 +10,12 @@ Review the provided code and answer the following questions. Feel free to talk w
 # Step 1 -- Self Explanation
 1. What are the keys listed in the dictionary named collegeAddress? You can verify the keys by printing them out in the program using the dict.keys() method.
 2. What happens if you try to add a second 'State' key into the schoolAddress dictionary? Answer as a comment within your program.
-3. Can you add in a key that is a number instead of a string? If you can, feel free to add it in the dictionary. 
+3. Can you add in a key that is a number instead of a string? If you can, add a key that is an int or float type to the dictionary. 
 4. Can you change the value of the Building Name key in the dictionary? If so, change it to the dorm you lived in Freshman year. However, don't manually change the value within the dictionary rather change the value by adding a new line of code.
 5. What is the length of the dictionary? You can verify the length by printing it out using the len(dict) method. 
 
 # Step 2 -- Creating a Dictionary Containing Dictionaries
-First, fill in the two dictionaries provided right under the comment STEP 2 using the exact same 5 keys provided in collegeAddress dictionary. These may be real buildings or buildings with fake values. 
+First, fill in the two dictionaries provided right under the comment STEP 2 using the exact same 5 key names provided in collegeAddress dictionary at the beginning of this lab. These may be real buildings or buildings with fake values. 
 
 After you have created the two additional dictionaries, you are going to create a dictionary that contains the three dictionaries you have already dealt with in this program. The name of the keys and the first value have been provided for you. Please fill out the remaining you values. 
 
