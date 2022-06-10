@@ -29,7 +29,7 @@ building3Address = {}
 dictionaryOfAddresses = {
 'College Address': collegeAddress,
 'Building 2 Address': None,
-'Bulding 3 Address': None}
+'Building 3 Address': None}
 
 
 # for you to test your dictionary of dictionaries
