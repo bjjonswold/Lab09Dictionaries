@@ -4,10 +4,9 @@
 # Lab09Dictionaries
 Dictionaries Warmup Lab
 
-# Attached is some code
-Review the provided code and answer the following questions. Feel free to talk with other students about any concepts you may be stuck on, and don't forget about the reminder on dictionaries listed at the end of this file. 
-
 # Step 1 -- Self Explanation
+Please take a look at the collegeAddress dictionary and answer the following questions. 
+
 1. What are the keys listed in the dictionary named collegeAddress? You can verify the keys by printing them out in the program using the dict.keys() method.
 2. What happens if you try to add a second 'State' key into the schoolAddress dictionary? Answer as a comment within your program.
 3. Can you add in a key that is a number instead of a string? If you can, add a key that is an int or float type to the dictionary. 
@@ -17,13 +16,13 @@ Review the provided code and answer the following questions. Feel free to talk w
 # Step 2 -- Creating a Dictionary Containing Dictionaries
 First, fill in the two dictionaries provided right under the comment STEP 2 using the exact same 5 key names provided in collegeAddress dictionary at the beginning of this lab. These may be real buildings or buildings with fake values. 
 
-After you have created the two additional dictionaries, you are going to create a dictionary that contains the three dictionaries you have already dealt with in this program. The name of the keys and the first value have been provided for you. Please fill out the remaining you values. 
+After you have filled in the two additional dictionaries, you are going to fill in a dictionary that contains the three dictionaries you have already dealt with in this program. The name of the keys and the first value have been provided for you. Please fill out the remaining you values. 
 
 # Submitting the Assignment
 Make sure to submit the assignment for grading! If you haven't clicked through the canvas link in a while, we would suggest clicking through it again before submitting.
 
 # Reminder on Dictionaries
-Dictionaries in Python are a data-structure used to store data as key:value pairs. A dictionary is changeable and does not allow for duplicate keys. Dictionaries are written using curly brackets with each key/value pair is seperated by a semicolon and different pairs are seperated by a comma. An example dictionary is shown below.
+Dictionaries in Python, sometimes referred to as maps in other languages, are a data-structure used to store data as key:value pairs. A dictionary is changeable and does not allow for duplicate keys. Dictionaries are written using curly brackets with each key/value pair is seperated by a semicolon and different pairs are seperated by a comma. An example dictionary is shown below.
 
 ```python
 dictionary = {
