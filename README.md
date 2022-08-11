@@ -1,6 +1,3 @@
-# Will TODO
-
-
 # Lab09Dictionaries
 Dictionaries Warmup Lab
 
