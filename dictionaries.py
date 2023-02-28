@@ -7,8 +7,8 @@ collegeAddress = {
 'City': 'Fort Collins',
 'State': 'Colorado',
 'Zip Code': 80523,
-'State': 'Minnesota', #Added a second State key
-float(5): 'Float Test' #Testing adding a float
+'State': 'Minnesota', #Added a second State key, overrides previous "State" Key
+float(5): 'Float Test' #Testing adding a float - Works!
 }
 
 collegeAddress['Building Name'] = 'Academic Village'
